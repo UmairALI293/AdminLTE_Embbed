@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "t0kD5PyThouGqU3NnBIjhyjitEXDAxbeicIBV9KZ5Hg=",
+  "Hash": "NrWc4O9HTzTVS1vJfObNqoHhMoTBe/Wxk7NVDL2ZzqE=",
   "Source": "TekAdminLTE",
   "BasePath": "_content/TekAdminLTE",
   "Mode": "Default",
@@ -31960,6 +31960,23 @@
       "OriginalItemSpec": "wwwroot\\css\\site.css"
     },
     {
+      "Identity": "G:\\TekAdminLTE\\wwwroot\\css\\ThemeCss.cs",
+      "SourceId": "TekAdminLTE",
+      "SourceType": "Discovered",
+      "ContentRoot": "G:\\TekAdminLTE\\wwwroot\\",
+      "BasePath": "_content/TekAdminLTE",
+      "RelativePath": "css/ThemeCss.cs",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\css\\ThemeCss.cs"
+    },
+    {
       "Identity": "G:\\TekAdminLTE\\wwwroot\\favicon.ico",
       "SourceId": "TekAdminLTE",
       "SourceType": "Discovered",
@@ -31992,6 +32009,23 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\js\\site.js"
+    },
+    {
+      "Identity": "G:\\TekAdminLTE\\wwwroot\\js\\ThemeScripts.js",
+      "SourceId": "TekAdminLTE",
+      "SourceType": "Discovered",
+      "ContentRoot": "G:\\TekAdminLTE\\wwwroot\\",
+      "BasePath": "_content/TekAdminLTE",
+      "RelativePath": "js/ThemeScripts.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\js\\ThemeScripts.js"
     },
     {
       "Identity": "G:\\TekAdminLTE\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",

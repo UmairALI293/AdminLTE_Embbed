@@ -7509,12 +7509,20 @@
       "PackagePath": "staticwebassets\\AdminTheme\\plugins\\toastr\\toastr.min.js"
     },
     {
+      "Id": "G:\\TekAdminLTE\\wwwroot\\css\\ThemeCss.cs",
+      "PackagePath": "staticwebassets\\css\\ThemeCss.cs"
+    },
+    {
       "Id": "G:\\TekAdminLTE\\wwwroot\\css\\site.css",
       "PackagePath": "staticwebassets\\css\\site.css"
     },
     {
       "Id": "G:\\TekAdminLTE\\wwwroot\\favicon.ico",
       "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "G:\\TekAdminLTE\\wwwroot\\js\\ThemeScripts.js",
+      "PackagePath": "staticwebassets\\js\\ThemeScripts.js"
     },
     {
       "Id": "G:\\TekAdminLTE\\wwwroot\\js\\site.js",
